@@ -1,0 +1,29 @@
+{
+  "name": "stellar",
+  "title": "Stellar.js",
+  "version": "0.6.2",
+  "description": "Parallax scrolling made easy.",
+  "homepage": "//markdalgleish.com/projects/stellar.js",
+  "author": {
+    "name": "Mark Dalgleish",
+    "url": "//markdalgleish.com"
+  },
+  "keywords": [
+    "parallax",
+    "scroll",
+    "effect",
+    "animation"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "//markdalgleish.mit-license.org"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4.3"
+  },
+  "bugs": "https://github.com/markdalgleish/stellar.js/issues",
+  "docs": "//markdalgleish.com/projects/stellar.js/docs",
+  "download": "https://github.com/markdalgleish/stellar.js#download"
+}
